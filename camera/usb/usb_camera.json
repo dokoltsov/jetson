@@ -1,0 +1,17 @@
+{
+  "mode": "auto",
+  "brightness": -7,
+  "contrast": 14,
+  "saturation": 0,
+  "hue": 3,
+  "gamma": 92,
+  "gain": 0,
+  "sharpness": 11,
+  "backlight_compensation": 78,
+  "auto_exposure": true,
+  "exposure_time": 157,
+  "exposure_dynamic_framerate": true,
+  "white_balance_auto": true,
+  "white_balance_temperature": 4600,
+  "power_line_frequency": 2
+}

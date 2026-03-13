@@ -1,0 +1,6 @@
+[submodule "gpio/jetson-gpio"]
+	path = gpio/jetson-gpio
+	url = https://github.com/NVIDIA/jetson-gpio
+[submodule "gpio/jetson-gpio-patch"]
+	path = gpio/jetson-gpio-patch
+	url = https://github.com/jetsonhacks/jetson-orin-gpio-patch.git
